@@ -1,1 +1,2 @@
 # GTDHACK
+Cách sử dụng
