@@ -1,9 +1,15 @@
-# GTDHACK
-Set up 
-1.PC : pip install requests pycryptodome
-2. Termux (Android) : 
+Setup
+
+PC:
+
+pip install requests pycryptodome
+
+Termux (Android) :
+
 pkg update && pkg upgrade -y
 pkg install python git -y
 pip install requests pycryptodome
-Cách sử dụng
+
+How to run:
+
 python menu.py
