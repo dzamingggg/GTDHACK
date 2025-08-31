@@ -16,4 +16,8 @@ pip install requests pycryptodome
 
 How to run:
 
+
+cd /storage/emulated/0/Download
+
+
 python menu.py
